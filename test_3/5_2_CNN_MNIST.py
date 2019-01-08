@@ -80,3 +80,9 @@ print("test accuracy %g"%accuracy.eval(feed_dict={
 
 
 
+#我做一下修改
+
+
+
+
+
